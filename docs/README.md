@@ -1,16 +1,48 @@
 # oakasapoglu.github.io
 
-<<<<<<< HEAD
-[[sdfds]]
+## dsfsddsa
+
+asdsadsad
+asdsada
+
+asdsadas
+dad
+
+## dsfsddsa
+
+asdsadsad
+asdsada
+
+asdsadas
+dad
+
+## dsfsddsa
+
+asdsadsad
+asdsada
+
+asdsadas
+dad
+
+## dsfsddsa
+
+asdsadsad
+asdsada
+
+asdsadas
+dad
+
+# sdsdfds
+
+dsfsf
+dsf
+sdf
+dsf
 
 
-ad
-sa
-d
-=======
-
-oakasapoglu.github.io
 
 
-[[sdfds]]
->>>>>>> 24a943d (hopp)
+
+
+
+
