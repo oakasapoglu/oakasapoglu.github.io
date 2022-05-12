@@ -51,9 +51,9 @@ Need to [index root  ](/index2.html) on the team?
 # sddsfsdf
 
 
-[contact someone](art.txt)
+[org/rolog.org](org/rolog.org)
 
-[contact someone](art.txt)
+[org/kortol.org](org/kortol.org)
 
 [contact someone](art.txt)
 

@@ -1,0 +1,45 @@
+
+#+TITLE: korroool.org
+#+DESCRIPTION: Export
+#+AUTHOR: Öak 
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil toc:nil
+
+
+
+
+* asd
+
+
+[[file:~/Desktop/vscodep/site/docs/markdown/marked.md][file:~/Desktop/vscodep/site/docs/markdown/marked.md]]
+
+
+
+[[file:kortol.org]]
+
+
+[[file:kortol.org]]
+
+
+[[file:rolog.org]]
+
+
+* asdsa
+
+
+
+sadad
+
+
+:adsfds:
+
+drawer
+
+
+as
+d
+sad
+s
+a
+ds
+:END:

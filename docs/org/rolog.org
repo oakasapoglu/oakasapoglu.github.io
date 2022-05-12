@@ -1,0 +1,85 @@
+#+TITLE: rolog.org
+#+DESCRIPTION: Export
+#+AUTHOR: Öak 
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil toc:nil
+
+
+
+# sadsf
+# sadsf
+
+
+
+
+# sadsf
+# sadsf
+asad
+
+* asd
+
+[[file:/marti.md]]
+
+[[file:/cardd/xart.txt]]
+
+[[file:kortol.org]]
+
+
+
+sa
+dsasasad
+
+* asddsa
+asd
+
+- sasad
+- dasd
+- sadsad
+
+* asddsa
+asd
+
+** sasad
+
+#+BEGIN_SRC emacs-lisp
+
+(forward-word)
+
+(progn)
+(setq)
+
+#+END_SRC
+
+
+asdasd
+
+- sasad
+- dasd
+- sadsad
+
+
+asd
+
+** dasd
+
+- sasad
+- dasd
+- sadsad
+
+
+asd
+sa
+d
+sad
+
+** sadsad
+
+0sdasd
+aasd
+asdsa
+
+
+- sasad
+- dasd
+- sadsad
+  
