@@ -26,7 +26,7 @@ Need to [index root  ](/index2.html) on the team?
 
 
 
-# sdfs
+# md
 
 [/markdown/wurked.md](/markdown/wurked.md)
 
@@ -48,12 +48,30 @@ Need to [index root  ](/index2.html) on the team?
 
 
 
-# sddsfsdf
+# org
 
 
 [org/rolog.org](org/rolog.org)
 
 [org/kortol.org](org/kortol.org)
+
+[/org/rolog.org](/org/rolog.org)
+
+[/org/kortol.org](/org/kortol.org)
+
+
+
+
+[/org/rolog.html](/org/rolog.html)
+[org/rolog.html](org/rolog.html)
+
+
+
+~/Desktop/vscodep/site/docs/org/rolog.html
+
+
+# sddsfsdf
+
 
 [contact someone](art.txt)
 
