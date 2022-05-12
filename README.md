@@ -1,16 +1,5 @@
 # oakasapoglu.github.io
 
-<<<<<<< HEAD
-[[sdfds]]
+main read me file
 
 
-ad
-sa
-d
-=======
-
-oakasapoglu.github.io
-
-
-[[sdfds]]
->>>>>>> 24a943d (hopp)
