@@ -1,0 +1,19 @@
+> scratch.org template
+
+
+#+title: Hello World
+#+date: <2026-04-26>
+#+filetags: :lisp:emacs:
+
+Post body here.
+
+* capture
+** kilit
+** feed
+** archive
+** thoughts
+* projects
+** boil explore
+* doc ends here
+
+
