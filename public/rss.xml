@@ -3,9 +3,9 @@
 <channel>
 <title><![CDATA[My Digital Garden]]></title>
 <description><![CDATA[My Digital Garden]]></description>
-<link>https://http://oakasapoglu.github.io/</link>
-<atom:link href="https://http://oakasapoglu.github.io/rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Sun, 26 Apr 2026 04:21:01 +0300</lastBuildDate>
+<link>https://oakasapoglu.github.io/</link>
+<atom:link href="https://oakasapoglu.github.io/rss.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sun, 26 Apr 2026 04:33:50 +0300</lastBuildDate>
 <item>
   <title><![CDATA[Hello World]]></title>
   <description><![CDATA[
@@ -69,8 +69,8 @@ Post body here.
 <div class="taglist"><a href="https://http://oakasapoglu.github.io/tags.html"><span class="tag-label">Tags</span></a><span class="tag-separator">: </span><span class="taglist__tags"><a href="https://http://oakasapoglu.github.io/tag-lisp.html" class="tag" data-tag="lisp" data-index="0">lisp</a> <a href="https://http://oakasapoglu.github.io/tag-emacs.html" class="tag" data-tag="emacs" data-index="1">emacs</a> </span></div>]]></description>
   <category><![CDATA[lisp]]></category>
   <category><![CDATA[emacs]]></category>
-  <link>https://http//oakasapoglu.github.io/2026-04-26-hello.html</link>
-  <guid>https://http//oakasapoglu.github.io/2026-04-26-hello.html</guid>
+  <link>https://oakasapoglu.github.io/2026-04-26-hello.html</link>
+  <guid>https://oakasapoglu.github.io/2026-04-26-hello.html</guid>
   <pubDate>Sun, 26 Apr 2026 00:00:00 +0300</pubDate>
 </item>
 <item>
@@ -131,8 +131,8 @@ Post body here.
 <div class="taglist"><a href="https://http://oakasapoglu.github.io/tags.html"><span class="tag-label">Tags</span></a><span class="tag-separator">: </span><span class="taglist__tags"><a href="https://http://oakasapoglu.github.io/tag-lisp.html" class="tag" data-tag="lisp" data-index="0">lisp</a> <a href="https://http://oakasapoglu.github.io/tag-emacs.html" class="tag" data-tag="emacs" data-index="1">emacs</a> </span></div>]]></description>
   <category><![CDATA[lisp]]></category>
   <category><![CDATA[emacs]]></category>
-  <link>https://http//oakasapoglu.github.io/2026-04-25-hello2.html</link>
-  <guid>https://http//oakasapoglu.github.io/2026-04-25-hello2.html</guid>
+  <link>https://oakasapoglu.github.io/2026-04-25-hello2.html</link>
+  <guid>https://oakasapoglu.github.io/2026-04-25-hello2.html</guid>
   <pubDate>Sat, 25 Apr 2026 00:00:00 +0300</pubDate>
 </item>
 </channel>
